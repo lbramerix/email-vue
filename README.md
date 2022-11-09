@@ -1,4 +1,4 @@
-# login-demo
+# email-demo
 
 > A Vue.js project
 
